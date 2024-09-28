@@ -1,0 +1,39 @@
+Spring DB2
+Sistema de Gestión Hospitalaria: Un sistema que maneje los registros de pacientes, historial 
+médico, citas, facturación y gestión de inventarios de medicamentos. Este sistema debe permitir 
+consultas complejas sobre el historial de pacientes y estadísticas de uso de recursos.
+
+Spring Derby
+Plataforma de Comercio Electrónico: Una aplicación que gestione productos, inventarios, pedidos, 
+usuarios y transacciones. Debe soportar búsquedas avanzadas de productos, análisis de ventas y 
+comportamiento de usuarios.
+
+Spring H2
+Sistema de Gestión Académica: Un sistema para universidades que administre información de 
+estudiantes, cursos, calificaciones, horarios y personal docente. Permitiría consultas sobre 
+el rendimiento académico, estadísticas de inscripción y gestión de recursos educativos.
+
+Spring MariaDB
+Sistema de Gestión de Recursos Humanos: Una aplicación que maneje la información de empleados, 
+nóminas, evaluaciones de desempeño, beneficios y asistencia. Debe permitir consultas sobre 
+historial laboral, análisis de desempeño y gestión de beneficios.
+
+Spring MySql
+Sistema de Gestión de Inventarios y Logística: Un sistema para empresas que maneje inventarios, 
+órdenes de compra, envíos y proveedores. Permitiría consultas sobre niveles de inventario, 
+iempos de entrega y análisis de proveedores.
+
+Spring Oracle
+Plataforma de Redes Sociales: Una aplicación que gestione perfiles de usuarios, publicaciones, 
+comentarios, mensajes y conexiones entre usuarios. Debe soportar consultas sobre interacciones 
+de usuarios, tendencias y análisis de contenido.
+
+Spring PostreSQL
+Sistema de Gestión Financiera: Un sistema que administre cuentas bancarias, transacciones, 
+préstamos, inversiones y reportes financieros. Permitiría consultas sobre movimientos financieros, 
+análisis de inversiones y generación de reportes.
+
+Spring Sql Server
+Sistema de Gestión de Proyectos: Una aplicación que maneje proyectos, tareas, recursos, tiempos 
+y presupuestos. Debe permitir consultas sobre el progreso de proyectos, asignación de recursos y 
+análisis de costos.
